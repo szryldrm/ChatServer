@@ -1,0 +1,14 @@
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\bin\Debug\Client.exe.config
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\bin\Debug\Client.exe
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\bin\Debug\Client.pdb
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\bin\Debug\ServerWcfService.dll
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\obj\x86\Debug\Client.frmClient.resources
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\obj\x86\Debug\Client.exe
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\obj\x86\Debug\Client.pdb
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\bin\Debug\ChatLibrary.dll
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\bin\Debug\MetroFramework.dll
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SezerYıldırım\Desktop\ChatServer\ChatServer\Client\bin\Debug\ChatLibrary.pdb
