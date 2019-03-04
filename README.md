@@ -6,6 +6,6 @@ Screenshot
 
 
 <p align="center">
-<img width="300px" height="300px" title="Join Room" src="https://imagizer.imageshack.com/img923/5535/7W1UXZ.png">
-<img width="300px" height="300px" title="Leave Room" src="https://imagizer.imageshack.com/img923/1092/ZPPAyo.png">
+<img width="300px" height="300px" title="Join Room" src="http://i68.tinypic.com/mrfm2s.jpg">
+<img width="300px" height="300px" title="Leave Room" src="http://i64.tinypic.com/1zdp5zm.jpg">
 </p>
